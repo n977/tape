@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+members = [
+  "tape",
+  "tape_core"
+]
